@@ -1,0 +1,15 @@
+.gallery-item {
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+}
+.gallery-wrapper {
+    /* justify-content: space-around; */
+    display: flex;
+    flex-wrap: wrap;
+}
+.container {
+    max-width: 1300px;
+    margin: 100px auto;
+    text-align: center;
+}
